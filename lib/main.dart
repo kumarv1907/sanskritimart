@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:sanskritimart/views/splash_screen/splash_screen.dart';
 
@@ -21,7 +20,7 @@ class SanskritiMart extends StatelessWidget {
         appBarTheme: const AppBarTheme(backgroundColor: Colors.transparent),
         fontFamily: regular,
       ),
-      home: SplashScreen(),
+      home: const SplashScreen(),
     );
   }
 }

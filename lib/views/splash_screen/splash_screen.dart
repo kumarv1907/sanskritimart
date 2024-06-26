@@ -19,7 +19,6 @@ class _SplashScreenState extends State<SplashScreen> {
 
   @override
   void initState() {
-    // TODO: implement initState
     changeScreen();
     super.initState();
   }
@@ -40,7 +39,7 @@ class _SplashScreenState extends State<SplashScreen> {
           appname.text.fontFamily(bold).size(35).white.make(),
           5.heightBox,
           appversion.text.white.make(),
-          Spacer(),
+          const Spacer(),
           credits.text.fontFamily(semibold).make(),
           20.heightBox,
         ],
