@@ -9,5 +9,7 @@ const forgetPass = "Forget Password";
 const login = "Log in";
 const signup = "Sign Up";
 const createNewAccount = "or, create a new account";
-
+const retypepassword = 'Retype Password';
 const loginWith = "Log in with";
+const name = "Name";
+const nameHint = "Name";

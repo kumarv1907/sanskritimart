@@ -1,4 +1,3 @@
-import 'package:get/get.dart';
 import 'package:sanskritimart/views/splash_screen/splash_screen.dart';
 
 import 'consts/consts.dart';

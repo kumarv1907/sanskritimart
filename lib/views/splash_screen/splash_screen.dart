@@ -1,7 +1,4 @@
-import 'package:get/get.dart';
 import 'package:sanskritimart/consts/consts.dart';
-import 'package:sanskritimart/views/auth_screen/login_screen.dart';
-import 'package:sanskritimart/widgets_common/applogo_widgets.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
