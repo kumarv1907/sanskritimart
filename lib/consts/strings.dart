@@ -13,3 +13,6 @@ const retypepassword = 'Retype Password';
 const loginWith = "Log in with";
 const name = "Name";
 const nameHint = "Name";
+const privacyPolicy = 'Privacy Policy';
+const termandcond = 'Terms and Conditions';
+const alreadyhaveanaccount = 'Already Have an Account ?';
